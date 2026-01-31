@@ -1,4 +1,4 @@
-# CNJ Admin SaaS
+# CNJ
 
 Aplicação admin moderna construída com Next.js (App Router), TypeScript, Tailwind CSS e Supabase.
 

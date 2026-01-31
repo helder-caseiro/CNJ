@@ -2,7 +2,7 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "CNJ Admin",
+  title: "CNJ",
   description: "Admin SaaS for judicial segments"
 };
 
